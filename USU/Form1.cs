@@ -20,7 +20,7 @@ namespace USU
         private Point direction = Point.Empty;
 
         // половинные размеры, коэффициент скорости, счёт
-        private int halfWidth=50, halfHeight=50;
+        private int halfWidth = 50, halfHeight = 50;
         private int score = 0;
         private int speedCoefficient = 2;
 
